@@ -1,3 +1,5 @@
+// Here we are taking input a number and finding out if it is odd or even
+
 const prompt = require("prompt-sync")();
 const number = prompt("What number do you have?: ");
 
